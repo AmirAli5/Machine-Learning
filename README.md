@@ -9,38 +9,15 @@ Click to see my book on Machine Learning: <br>
 https://www.amazon.com/gp/product/B07Q5MK6DS/
 
 The Topic that are covered in this repository are:
-1. Supervised Machine Learning <br>
-    1.1. Classfication Techniques <br>
-                   1.1.1 Naive Bayes Classifier <br>
-                   1.1.2 Logisttic Regression <br>
-             1.1.3 k-Nearest Neighbors <br>
-             1.1.4 Decision Tree Classifier <br>
-             1.1.4 Random Forrest Classifier <br>
-             
-  Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
-
-
-
-
-
-
-
-
 
 1. Supervised Machine Learning <br>
     1. Classfication Techniques <br>
-        1. Naive Bayes Classifier 
+        1. Naive Bayes Classifier
+        2. Logisttic Regression
+        3. k-Nearest Neighbors
+        4. Decision Tree Classifier
+        5. Random Forrest Classifier
+        6. Support Vector Machine(SVC)
                 
 
 
