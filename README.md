@@ -5,3 +5,6 @@ In this repo, all about Machine Learning and I covered both Supervised and Unsup
 Click to see the complete documentation of this repository: <br>
 https://drive.google.com/file/d/1deQBEKKWY__nUC1uI--UlsC-BRU7oS9B/view
 
+Click to see my book on Machine Learning: <br>
+https://www.amazon.com/gp/product/B07Q5MK6DS/
+
