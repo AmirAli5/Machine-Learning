@@ -11,8 +11,8 @@ https://www.amazon.com/gp/product/B07Q5MK6DS/
 The Topic that are covered in this repository are:
 1. Supervised Machine Learning <br>
     1.1. Classfication Techniques <br>
-       1.1.1 Naive Bayes Classifier <br>
-       1.1.2 Logisttic Regression <br>
-       1.1.3 k-Nearest Neighbors <br>
-       1.1.4 Decision Tree Classifier <br>
-       1.1.4 Random Forrest Classifier <br>
+             1.1.1 Naive Bayes Classifier <br>
+             1.1.2 Logisttic Regression <br>
+             1.1.3 k-Nearest Neighbors <br>
+             1.1.4 Decision Tree Classifier <br>
+             1.1.4 Random Forrest Classifier <br>
