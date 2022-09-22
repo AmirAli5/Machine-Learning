@@ -28,3 +28,26 @@ The Topic that are covered in this repository are:
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
+
+
+
+
+
+
+
+
+
+
+* Supervised Machine Learning <br>
+    * Classfication Techniques <br>
+        * Naive Bayes Classifier 
+                
+
+
+
+
+
+
+
+
+
