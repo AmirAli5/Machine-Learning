@@ -10,7 +10,7 @@ https://www.amazon.com/gp/product/B07Q5MK6DS/
 
 The Topic that are covered in this repository are:
 
-1. Supervised Machine Learning
+1. Unsupervised Machine Learning
     1. Classfication
         1. Naive Bayes Classifier(NB)
         2. Logisttic Regression
