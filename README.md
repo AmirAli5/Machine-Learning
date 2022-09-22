@@ -29,7 +29,7 @@ The Topic that are covered in this repository are:
         2. FP Growth Algorithm
      2. Clustering
         1. k-Mean Clustering
-        2. hierarchical Clustering
+        2. Hierarchical Clustering
      3. Dimensionality Reduction
         1. Principal Component Analysis(PCA)
         2. Linear Discriminant Analysis (LDA)
