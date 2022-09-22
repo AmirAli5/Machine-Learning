@@ -38,9 +38,9 @@ The Topic that are covered in this repository are:
 
 
 
-* Supervised Machine Learning <br>
-    * Classfication Techniques <br>
-        * Naive Bayes Classifier 
+1. Supervised Machine Learning <br>
+    2. Classfication Techniques <br>
+        3. Naive Bayes Classifier 
                 
 
 
