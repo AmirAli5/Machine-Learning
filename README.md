@@ -16,3 +16,15 @@ The Topic that are covered in this repository are:
              1.1.3 k-Nearest Neighbors <br>
              1.1.4 Decision Tree Classifier <br>
              1.1.4 Random Forrest Classifier <br>
+             
+  Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
