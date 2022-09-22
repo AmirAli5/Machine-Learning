@@ -12,30 +12,29 @@ The Topic that are covered in this repository are:
 
 1. Supervised Machine Learning
     1. Classfication
-        1. Naive Bayes Classifier (NB)
+        1. Naive Bayes Classifier(NB)
         2. Logisttic Regression
-        3. k-Nearest Neighbors (kNN)
+        3. k-Nearest Neighbors(kNN)
         4. Decision Tree Classifier
         5. Random Forrest Classifier
         6. Support Vector Machine(SVC)
-     1. Regression <br>
+     2. Regression <br>
         1. Liner regression
         2. Decision Tree Regression
         3. Random Forrest Regression
-        4. Support Vector Regression (SVR)
+        4. Support Vector Regression(SVR)
 2. Supervised Machine Learning
-    1. Classfication
-        1. Naive Bayes Classifier (NB)
-        2. Logisttic Regression
-        3. k-Nearest Neighbors (kNN)
-        4. Decision Tree Classifier
-        5. Random Forrest Classifier
-        6. Support Vector Machine(SVC)
-     1. Regression <br>
-        1. Liner regression
-        2. Decision Tree Regression
-        3. Random Forrest Regression
-        4. Support Vector Regression (SVR)
+    1. Association Rule
+        1. Apriori Algorithm
+        2. FP Growth Algorithm
+     2. Clustering
+        1. k-Mean Clustering
+        2. hierarchical Clustering
+     3. Dimensionality Reduction
+        1. Principal Component Analysis(PCA)
+        2. Linear Discriminant Analysis (LDA)
+     
+
 
 
 
