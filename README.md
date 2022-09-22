@@ -18,6 +18,13 @@ The Topic that are covered in this repository are:
         4. Decision Tree Classifier
         5. Random Forrest Classifier
         6. Support Vector Machine(SVC)
+     1. Classfication Techniques <br>
+        1. Naive Bayes Classifier
+        2. Logisttic Regression
+        3. k-Nearest Neighbors
+        4. Decision Tree Classifier
+        5. Random Forrest Classifier
+        6. Support Vector Machine(SVC)
                 
 
 
