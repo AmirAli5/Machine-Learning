@@ -10,7 +10,7 @@ https://www.amazon.com/gp/product/B07Q5MK6DS/
 
 The Topic that are covered in this repository are:
 
-1. Unsupervised Machine Learning
+1. Supervised Machine Learning
     1. Classfication
         1. Naive Bayes Classifier(NB)
         2. Logisttic Regression
@@ -23,7 +23,7 @@ The Topic that are covered in this repository are:
         2. Decision Tree Regression
         3. Random Forrest Regression
         4. Support Vector Regression(SVR)
-2. Supervised Machine Learning
+2. Unsupervised Machine Learning
     1. Association Rule
         1. Apriori Algorithm
         2. FP Growth Algorithm
